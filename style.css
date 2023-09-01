@@ -32,28 +32,28 @@ a {
 }
 
 .jumbotron {
-  display: flex;
   align-items: center;
-  background-image: url('https://images.unsplash.com/photo-1656122982782-9905369b4565?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80');
+  background-image: url('nightsky.jpeg');
   background-size: cover;
   color: #ffffff;
-  height: 400px;
+  height: 200px;
 }
 
 .jumbotron h2 {
-  font-size: 60px;
+  font-size: 40px;
   font-weight: 700;
   margin: 0;
   color: #fff;
 }
 
 .jumbotron h3 {
-  margin: 0 0 20px;
+  font-size: 10px
+  margin: 0 0 0px;
   color: #fff;
 }
 
 section .row img {
-  margin: 0 0 30px;
+  margin: 0 0 0px;
   width: 100%;
 }
 
@@ -110,3 +110,5 @@ footer ul {
 #profilepic {
   display: flex;
 }
+
+
